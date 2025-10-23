@@ -1,4 +1,4 @@
-# Sistema de Rutas de Santa Cruz 🚗🗺️
+# Sistema de Rutas de Santa Cruz 🚗
 
 Proyecto final de **Estructura de Datos II (UAGRM)**  
 Docente: **Ing. Juan Carlos Peinado**  
@@ -7,13 +7,13 @@ Gestión: **II/2025**
 
 
 
-## 📘 Descripción
+## Descripción
 
 Este proyecto implementa un **sistema de rutas basado en grafos ponderados** que permite calcular el **camino más corto entre ciudades** del departamento de Santa Cruz, aplicando el **algoritmo de Dijkstra**.
 
 
 
-## ⚙️ Contenido del repositorio
+## Contenido del repositorio
 
 - `grafo_santacruz.py` → Código fuente principal en Python.  
 - `Proyecto_Final_Sistema_Rutas_SantaCruz.docx` → Documento del informe final con teoría, desarrollo y capturas.  
@@ -21,7 +21,7 @@ Este proyecto implementa un **sistema de rutas basado en grafos ponderados** que
 
 
 
-## 🧩 Ejemplo de ejecución
+## Ejemplo de ejecución
 
 Mostrar lista de adyacencia
 
@@ -43,13 +43,13 @@ yaml
 Copiar código
 
 
-## 💡 Tecnologías utilizadas
+## Tecnologías utilizadas
 - Lenguaje: **Python 3.13**
 - Librerías: `heapq`, `typing`, `unicodedata`
 - IDE: **Visual Studio Code**
 
   
-## 🏁 Objetivo
+##  Objetivo
 Aplicar el uso de **grafos ponderados y algoritmos de costo mínimo** dentro de un contexto real de transporte urbano, reforzando los conceptos de estructuras de datos avanzadas.
 
 
